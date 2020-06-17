@@ -22,23 +22,23 @@
 * [019 JSON이란?](./part1/019.js)
 * [020 JSON에서 값 뽑기, 필드 추가하기](./part1/020.js)
 * [021 typeof로 변수의 타입(형) 알아보기](./part1/021.js)
-* 022 true, false Boolean(불리언)
-* 023 증감연산자
-* 024 비교연산자(Comparison Operator)
-* 025 논리연산자(Logical Operator)
-* 026 삼항연산자
+* [022 true, false Boolean(불리언)](./part1/022.js)
+* [023 증감연산자](./part1/023.js)
+* [024 비교연산자(Comparison Operator)](./part1/024.js)
+* [025 논리연산자(Logical Operator)](./part1/025.js)
+* [026 삼항연산자](./part1/026.js)
 
 ## PART 2 초급 Nodejs 프로그램 기본기 연마하기
-* 027 조건문 if
-* 028 조건문 if else
-* 029 조건문 if else if else
-* 030 조건문 Switch
-* 031 반복문 for
-* 032 중첩 for문을 이용해 구구단 출력하기
-* 033 for문 끝내기 break
-* 034 자주 쓰는 반복문 for of
-* 035 forEach() 포 이치
-* 036 반복문 while
+* [027 조건문 if](./part1/027.js)
+* [028 조건문 if else](./part1/028.js)
+* [029 조건문 if else if else](./part1/029.js)
+* [030 조건문 Switch](./part1/030.js)
+* [031 반복문 for](./part1/031.js)
+* [032 중첩 for문을 이용해 구구단 출력하기](./part1/032.js)
+* [033 for문 끝내기 break](./part1/033.js)
+* [034 자주 쓰는 반복문 for of](./part1/034.js)
+* [035 forEach() 포 이치](./part1/035.js)
+* [036 반복문 while](./part1/036.js)
 * 037 날짜 시간 생성하기 Date()
 * 038 날짜 시간 출력하기
 * 039 yyyy-MM-dd 형식으로 날짜 출력하기
