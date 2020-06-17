@@ -1,5 +1,23 @@
-# FrontEnd
-
-## javascript
-## vue
-## node
+- How Browsers Work
+- RestfulAPI
+- Hoisting, Event Bubbling
+- CORS
+- CSS, SCSS
+- Vue.js
+- Canvas
+- Javascript
+	- JS function
+	- bind, apply and call
+	- scope
+	- this
+	- objects
+	- Prototypical Inheritance
+	- the callbacks and promises
+	- Map, Reduce and Filter
+	- Error handling patterns
+  - the regular expressions
+  - Number Reference
+  - String Reference
+  - Math Reference
+  - Array Reference
+- Algorithm
