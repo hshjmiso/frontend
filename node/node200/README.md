@@ -39,12 +39,12 @@
 * [034 자주 쓰는 반복문 for of](./part1/034.js)
 * [035 forEach() 포 이치](./part1/035.js)
 * [036 반복문 while](./part1/036.js)
-* 037 날짜 시간 생성하기 Date()
-* 038 날짜 시간 출력하기
-* 039 yyyy-MM-dd 형식으로 날짜 출력하기
-* 040 Timestamp(타임스탬프)
-* 041 예외처리 try catch
-* 042 예외처리 try catch final
+* [037 날짜 시간 생성하기 Date()](./part1/037.js)
+* [038 날짜 시간 출력하기](./part1/038.js)
+* [039 yyyy-MM-dd 형식으로 날짜 출력하기](./part1/039.js)
+* [040 Timestamp(타임스탬프)](./part1/040.js)
+* [041 예외처리 try catch](./part1/041.js)
+* [042 예외처리 try catch final](./part1/042.js)
 * 043 전역 객체(Global Object)
 * 044 함수(function) 선언하기
 * 045 매개변수(parameter)와 인자(argument)
