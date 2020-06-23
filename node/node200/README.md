@@ -45,10 +45,10 @@
 * [040 Timestamp(타임스탬프)](./part1/040.js)
 * [041 예외처리 try catch](./part1/041.js)
 * [042 예외처리 try catch final](./part1/042.js)
-* 043 전역 객체(Global Object)
-* 044 함수(function) 선언하기
-* 045 매개변수(parameter)와 인자(argument)
-* 046 함수(function)의 값 반환, return
+* [043 전역 객체(Global Object)](./part1/043.js)
+* [044 함수(function) 선언하기](./part1/044.js)
+* [045 매개변수(parameter)와 인자(argument)](./part1/045.js)
+* [046 함수(function)의 값 반환, return](./part1/046.js)
 * 047 A, B, C, F 등급을 구하는 함수 만들기
 * 048 여러 가지 함수(function) 선언 방법
 * 049 자바스크립트 함수의 성질(일급 객체)
