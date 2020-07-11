@@ -123,20 +123,20 @@
 * 116 filter, map(), reduce() 함수 예제 - 평균구하기
 * 117 프로미스 promise
 * 118 Promiseall()을 이용해 후처리하기
-* 119 exports
-* 120 require
+* [119 exports](./part3/119.js)
+* [120 require](./part3/120.js)
 
 ## PART 4 활용 Nodejs 라이브러리를 활용할 실전 응용
 * 121 API 읽는 법
 * 122 비동기(Async)와 동기(Sync)
-* 123 파일로 출력하기 fswrite()
-* 124 동기로 파일 열기 fsreadFileSync()
-* 125 비동기로 파일 열기 fsreadfile()
-* 126 파일 내용 수정하기
-* 127 파일에 내용 추가하기 fsappendFile()
-* 128 디렉토리 만들기 fsmkdirSync()
-* 129 파일 리스트 출력하기
-* 130 list를 json 형식으로 파일에 저장하기, JSONstringify()
+* [123 파일로 출력하기 fswrite()](./part4/123.js)
+* [124 동기로 파일 열기 fsreadFileSync()](./part4/124.js)
+* [125 비동기로 파일 열기 fsreadfile()](./part4/125.js)
+* [126 파일 내용 수정하기](./part4/126.js)
+* [127 파일에 내용 추가하기 fsappendFile()](./part4/127.js)
+* [128 디렉토리 만들기 fsmkdirSync()](./part4/128.js)
+* [129 파일 리스트 출력하기](./part4/129.js)
+* [130 list를 json 형식으로 파일에 저장하기, JSONstringify()](./part4/130.js)
 * 131 파일을 json 형식으로 불러오기, JSONparse()
 * 132 파일 이름 바꾸기
 * 133 http 모듈
