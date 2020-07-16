@@ -142,11 +142,11 @@
 * [133 http 모듈](./part4/133.js)
 * [134 http 모듈 - event](./part4/134.js)
 * [135 http 모듈 - response 객체](./part4/135.js)
-* 136 http 모듈 - response 객체, fs 모듈 활용①
-* 137 http 모듈 - response 객체, fs 모듈 활용②
-* 138 http 모듈 - request 객체, url 속성 활용
-* 139 http 모듈 - request 객체, method 속성 GET
-* 140 http 모듈 - request 객체, method 속성 POST
+* [136 http 모듈 - response 객체, fs 모듈 활용①](./part4/136.js)
+* [137 http 모듈 - response 객체, fs 모듈 활용②](./part4/137.js)
+* [138 http 모듈 - request 객체, url 속성 활용](./part4/138.js)
+* [139 http 모듈 - request 객체, method 속성 GET](./part4/139.js)
+* [140 http 모듈 - request 객체, method 속성 POST](./part4/140.js)
 * 141 쿠키(Cookie) 생성
 * 142 쿠키(Cookie) 추출
 * 143 Nodejs 프로젝트 만들기(build하기)
