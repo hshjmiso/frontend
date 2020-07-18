@@ -24,5 +24,5 @@ http.createServer((request, response) => {
     console.log('서버 동작 중, http://127.0.0.1:50000');
 });
 /**
- * Header 속성에 있는 cookie 속성은 문자열이기 때문에 분해해 배여로 생성후 처리
+ * Header 속성에 있는 cookie 속성은 문자열이기 때문에 분해해 배열로 생성후 처리
  */

@@ -147,16 +147,16 @@
 * [138 http 모듈 - request 객체, url 속성 활용](./part4/138.js)
 * [139 http 모듈 - request 객체, method 속성 GET](./part4/139.js)
 * [140 http 모듈 - request 객체, method 속성 POST](./part4/140.js)
-* 141 쿠키(Cookie) 생성
-* 142 쿠키(Cookie) 추출
-* 143 Nodejs 프로젝트 만들기(build하기)
-* 144 프로젝트 초기화 하기-npm init
-* 145 패키지 설치 - npm install
-* 146 패키지 지우기 - npm uninstall
-* 147 필요한 module 설치하기
-* 148 request로 구글 크롤링하기
-* 149 request로 파라미터 추가해 호출하기
-* 150 한글 깨지는 문제 해결하기
+* [141 쿠키(Cookie) 생성](./part4/141.js)
+* [142 쿠키(Cookie) 추출](./part4/142.js)
+* [143 Nodejs 프로젝트 만들기(build하기)](./part4/143.js)
+* [144 프로젝트 초기화 하기-npm init](./part4/144.js)
+* [145 패키지 설치 - npm install](./part4/145.js)
+* [146 패키지 지우기 - npm uninstall](./part4/146.js)
+* [147 필요한 module 설치하기](./part4/147.js)
+* [148 request로 구글 크롤링하기](./part4/148.js)
+* [149 request로 파라미터 추가해 호출하기](./part4/149.js)
+* [150 한글 깨지는 문제 해결하기](./part4/150.js)
 * 151 cheerio란?
 * 152 cheerio 이용해서 필요한 부분 추출하기
 * 153 request 실행 결과 파일로 저장하기
