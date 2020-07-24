@@ -177,8 +177,8 @@
 * [168 express 모듈 ⑨ - cookie parser 미들웨어](./part4/168.js)
 * [169 express 모듈 ⑩ - connect-multiparty 미들웨어](./part4/169.js)
 * [170 express 모듈 ⑪ - express-session 미들웨어](./part4/170.js)
-* 171 node-schedule 모듈 ①
-* 172 node-schedule 모듈 ②
+* [171 node-schedule 모듈 ①](./part4/171.js)
+* [172 node-schedule 모듈 ②](./part4/172.js)
 * 173 Nodemailer 모듈 ① - 메일 보내기(TEXT)
 * 174 Nodemailer 모듈 ② - 메일 보내기(HTML)
 * 175 Nodemailer 모듈 ③ - 메일 보내기(첨부파일)
